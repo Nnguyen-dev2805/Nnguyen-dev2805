@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Truong Nhat Nguyen</h1>
 <h3 align="center">A developer from Viet Nam</h3>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBuOGxzOHVqZWZmNTE1Mmw2eTRwOGk1amc0ZGFtb2swaGo5bm14YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right" alt="">
 
 - 📫 How to reach me **tnhatnguyen.dev2805@gmail.com**
 
