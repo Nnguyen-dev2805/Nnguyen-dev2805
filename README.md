@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truong Nhat Nguyen</h1>
-<h3 align="center">I'm Web Developer</h3>
+<h3 align="center">I'm Developer</h3>
 
 ## 📫 How to reach me:
 
