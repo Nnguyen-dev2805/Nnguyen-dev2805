@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truong Nhat Nguyen</h1>
-<h3 align="center">A developer from Viet Nam</h3>
+<h3 align="center">Let's with me train AI</h3>
 <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBuOGxzOHVqZWZmNTE1Mmw2eTRwOGk1amc0ZGFtb2swaGo5bm14YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right" alt=""> -->
 <img src="https://camo.githubusercontent.com/110bdf6bac7999ef31c5b32f5e2169dee47dd75b76157fef97f4bd8871bd7f51/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f373337393239322f73637265656e73686f74732f31353430313230332f6d656469612f61343532636530313933303031653930626333643933383533623333663966612e676966" width="300px" align="right" alt="">
 
